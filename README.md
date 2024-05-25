@@ -5,3 +5,5 @@ They both work to improve the resillience of applications. Graceful degradation 
 
 GitHub Pages:
 https://wsugiarto.github.io/Lab8-Starter/
+
+![pwa picture](pwa.png)

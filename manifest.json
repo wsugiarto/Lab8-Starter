@@ -2,7 +2,7 @@
   "name": "Lab8-Starter",
   "short_name": "Wilson Sugiarto",
   "description": "Test App",
-  "start_url": "http://localhost:5500/",
+  "start_url": "https://wsugiarto.github.io/Lab8-Starter/",
   "display": "standalone",
   "background_color": "white",
   "theme_color": "red",
